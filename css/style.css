@@ -1,0 +1,128 @@
+:root{
+    --bg-color: azure;
+    --text-color: #202020;
+    --btn-bg-light: #e8e8ea;
+    --btn-bg-dark: #4B6BFB;
+}
+.dark-mode{
+    --bg-color: #000;
+    --text-color: white;
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: 0.3s ease-in-out;
+}
+body html{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.navbar-collapse a{
+    color: #4B6BFB;
+}
+#header{
+    background:#ebebff;
+    top: 0;
+    position:sticky;
+    z-index:999;
+}
+.form input{
+    border-radius:5px ;
+    border:0.5px rgba(0, 0, 0, 0.277) solid;
+    padding: 5px;
+   
+   
+
+}
+.btn{
+    margin-top:6px ;
+    background: #4B6BFB;
+    color: #ffff;
+    font-size:13px ;
+}
+.form{
+    padding:10px ;
+    border-radius:5px ;
+}
+
+footer{
+    background:#F6F6F7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.alert button{
+    border: none;
+    background: #4B6BFB;
+    padding: 5px;
+    border-radius: 5px;
+    color: #e8e8ea;
+    margin-bottom:10px ;
+    
+}
+.alert{
+    background: #ffff;
+    padding:20px ;
+    border-radius:5px ;
+    margin-top:-140px ;
+    margin-left:50px ;
+   
+}
+.alert img{
+    margin-top:10px ;
+    width:30vh;
+}
+.breadcrumb{
+    margin-top:20px ;
+    overflow: hidden;
+    margin-left:7%;
+   
+}
+
+.pic img{
+  height:300px ;
+  max-width:90%;
+}
+.info{
+    margin-top:10px ;
+}
+.form{
+    margin-top:10px ;
+    text-align: center;
+}
+.quick-link{
+    margin-right:10px ;
+}
+.post{
+ margin-top:20px ;
+ padding: 10px;
+}
+
+.post .post2{
+    border: 1px solid rgba(0, 0, 0, 0.527);
+    border-radius: 5px;
+    margin-right:10px ;
+    padding:10px ;
+
+}
+.post .post1{
+    border: 1px solid rgba(0, 0, 0, 0.527);
+    border-radius: 5px;
+    margin-right:10px ;
+    padding:10px ;
+}
+.post .post3{
+    border: 1px solid rgba(0, 0, 0, 0.527);
+    border-radius: 5px;
+    margin-right:10px ;
+    padding:10px ;
+}
+.post button{
+    border: none;
+    border-radius: 5px;
+    background: #4b6bfbdd;
+    color: #ffffffef;
+    margin-top:5px ;
+    margin-bottom:5px ;
+}
