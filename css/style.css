@@ -51,6 +51,7 @@ footer{
     background:#F6F6F7;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top:100px ;
 }
 .alert button{
     border: none;
@@ -97,6 +98,7 @@ footer{
 .post{
  margin-top:20px ;
  padding: 10px;
+
 }
 
 .post .post2{
