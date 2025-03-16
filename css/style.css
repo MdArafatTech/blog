@@ -70,10 +70,7 @@ footer{
     margin-left:50px ;
    
 }
-.alert img{
-    margin-top:10px ;
-    width:30vh;
-}
+
 .breadcrumb{
     margin-top:20px ;
     overflow: hidden;
@@ -81,9 +78,12 @@ footer{
    
 }
 
-.pic img{
-  height:300px ;
-  max-width:90%;
+.main-img{
+    height: 300px;
+    width:470px;
+}
+.main-pic{
+    width:150px ;
 }
 .info{
     margin-top:10px ;
@@ -127,4 +127,8 @@ footer{
     color: #ffffffef;
     margin-top:5px ;
     margin-bottom:5px ;
+}
+.contact-nav a{
+    font-size:10px;
+    padding:2px ;
 }
