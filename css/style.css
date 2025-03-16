@@ -102,33 +102,98 @@ footer{
 }
 
 .post .post2{
-    border: 1px solid rgba(0, 0, 0, 0.527);
+    border: 1px solid rgba(137, 133, 133, 0.527);
     border-radius: 5px;
     margin-right:10px ;
     padding:10px ;
+    box-shadow:2px 2px 2px 2px rgb(88, 87, 86) ;
 
 }
 .post .post1{
-    border: 1px solid rgba(0, 0, 0, 0.527);
+    border: 1px solid rgba(137, 133, 133, 0.527);
     border-radius: 5px;
     margin-right:10px ;
     padding:10px ;
+    box-shadow:2px 2px 2px 2px rgb(88, 87, 86) ;
 }
 .post .post3{
-    border: 1px solid rgba(0, 0, 0, 0.527);
+    border: 1px solid rgba(137, 133, 133, 0.527);
     border-radius: 5px;
     margin-right:10px ;
     padding:10px ;
+    box-shadow:2px 2px 2px 2px rgb(88, 87, 86) ;;
 }
 .post button{
     border: none;
-    border-radius: 5px;
+    border-radius:5px;
     background: #4b6bfbdd;
     color: #ffffffef;
     margin-top:5px ;
     margin-bottom:5px ;
 }
-.contact-nav a{
-    font-size:8px;
-    padding:2px ;
+.arafat{
+    height:70px ;
+    width:70px ;
+    border-radius:50% ;
+    margin-right:10px ;
+}
+ .about-me{
+    background: #f6f6f7;
+    margin-top:30px ;
+    padding-top:30px ;
+    padding-bottom:20px ;
+    border:10px ;
+    margin-bottom:20px ;
+    border-radius:7px;
+ }
+.fac-icon a{
+ border: none;
+ border-radius:20% ;
+ padding:5px ;
+ font-size:20px ;
+ background: #ffffff;
+ margin-left:10px;
+}
+.ins-icon a{
+ border: none;
+ border-radius:30% ;
+ padding:5px ;
+ font-size:17px ;
+ color: #F6F6F7;
+ background: linear-gradient(rgb(238, 7, 255),rgb(244, 27, 27),yellow);
+ margin-left:10px;
+}
+.whats-icon a{
+ border: none;
+ border-radius:30% ;
+ padding:5px ;
+ font-size:17px ;
+ color: #F6F6F7;
+ background:rgb(74, 252, 25);
+ margin-left:10px;
+
+}
+.you-icon a{
+ border: none;
+ border-radius:30% ;
+ padding:5px ;
+ font-size:20px ;
+ background: #ffffff;
+ color:red ;
+ margin-left:10px;
+}
+.call-icon a{
+ border: none;
+ border-radius:30% ;
+ padding:5px ;
+ font-size:20px ;
+ background: #d8d4d4ae;
+ color:rgb(0, 89, 255) ;
+ margin-left:10px;
+}
+.contact{
+    height:200px ;
+   background: linear-gradient(rgb(242, 88, 88),rgb(234, 251, 80),rgb(59, 177, 250));
+   margin:50px ;
+   border-radius:20px ;
 }
