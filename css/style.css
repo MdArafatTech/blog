@@ -197,3 +197,17 @@ footer{
    padding-top:60px ;
   
 }
+ h2,h3,h4{
+font-family:fantasy;
+font-weight:00;
+ }
+ p {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight:550;
+ }
+li a{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
